@@ -1,5 +1,5 @@
 # spotify-network-analysis
-Complete write-up and slide deck can be found in "research' folder. 
+Complete write-up can be found as pdf in root and slide deck can be found in "visualizations' folder. 
 
 Detailed Description: 
 
